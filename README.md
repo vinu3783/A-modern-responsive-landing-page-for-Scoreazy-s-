@@ -31,3 +31,25 @@ Design System	Custom CSS Grid + Media Queries
 Icons/Emojis	Native Emojis
 Responsiveness	Fully responsive design
 SEO	Meta description + semantic tags
+🚀 How to Run Locally
+Download or clone the repo
+
+Open the folder
+
+Simply open index.html in your browser
+
+yaml
+Copy
+Edit
+No build tools or dependencies needed.
+📁 Folder Structure
+bash
+Copy
+Edit
+scoreazy_landing_page/
+├── index.html        # Main landing page
+├── style.css         # Styling
+└── README.md         # Project documentation
+🤝 Credits
+Assignment for Scoreazy Edu Tech Pvt. Ltd.
+Built by Vinayaka GC – aspiring full-stack developer.
